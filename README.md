@@ -44,4 +44,4 @@ The main goals of this project are:
 3. Output: `processed_data.csv` will be generated
    
 ## OUT PUT
-
+![Image](https://github.com/user-attachments/assets/2cd81248-ff52-4678-bd3b-044d9f920610)
